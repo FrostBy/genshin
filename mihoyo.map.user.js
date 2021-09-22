@@ -6,6 +6,7 @@
 // @author       Vladislav Romanovsky
 // @match        https://webstatic-sea.mihoyo.com/app/ys-map-sea/*
 // @icon         https://www.google.com/s2/favicons?domain=webstatic-sea.mihoyo.com/app/ys-map-sea
+// @updateURL    https://github.com/FrostBy/genshin/raw/master/mihoyo.map.user.js
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js
 // ==/UserScript==
 
