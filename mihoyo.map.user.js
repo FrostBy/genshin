@@ -26,7 +26,6 @@
         if ($('.mhy-game-gis')[0]?.__vue__?.map) {
             clearInterval(interval);
             $('.mhy-game-gis')[0].__vue__.map.on('mousedown', function (event) {
-                console.log(event);
                 if (event?.originalEvent?.which === 3) {
                     event.type = 'click';
                     event.target._events.click[0].fn.apply(event.target.ciLayer, [event]);
